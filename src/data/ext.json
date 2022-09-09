@@ -1,0 +1,44 @@
+{
+    "image": [
+        ".jpg",
+        "jpeg",
+        ".png",
+        ".bmp",
+        ".gif"
+    ],
+    "video": [
+        ".mkv",
+        ".mp4",
+        ".avi",
+        ".mpeg",
+        ".mov"
+    ],
+    "audio": [
+        ".mp3",
+        ".wav",
+        ".flac",
+        ".aac"
+    ],
+    "documents": [
+        ".txt",
+        ".pdf",
+        ".xls",
+        ".docs",
+        ".xlxs",
+        ".ppt"
+    ],
+    "compressed": [
+        ".rar",
+        ".zip",
+        ".tar",
+        ".gz",
+        ".7z"
+    ],
+    "executables": [
+        ".exe",
+        ".msi",
+        ".apk",
+        ".bin",
+        ".dmg"
+    ]
+}

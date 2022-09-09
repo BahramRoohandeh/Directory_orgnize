@@ -1,0 +1,12 @@
+
+
+How to run:
+
+import below code in main directory of project:
+
+               export PYTHONPATH=${PWD}
+
+
+
+then run below command:
+               python src/main.py directory_path 
